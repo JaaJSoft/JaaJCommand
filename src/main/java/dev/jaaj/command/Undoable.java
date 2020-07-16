@@ -1,5 +1,5 @@
 package dev.jaaj.command;
 
-public interface UndoableCommand {
+public interface Undoable {
     void undo();
 }
